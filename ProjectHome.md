@@ -1,0 +1,1 @@
+In the spirit of NetHack, rgrdhack is an amalgamation of many sources.  Anyone is free to add levels, monsters, and whatever else they want to the game.
